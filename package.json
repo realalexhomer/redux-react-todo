@@ -17,9 +17,9 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/davezuko/react-redux-starter-kit.git"
+    "url": "git+https://github.com/realalexhomer/react-redux-todo"
   },
-  "author": "David Zukowski <david@zuko.me> (http://zuko.me)",
+  "author": "alex homer",
   "license": "MIT",
   "dependencies": {
     "cssnano": "^3.3.2",
