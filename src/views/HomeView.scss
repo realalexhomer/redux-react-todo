@@ -6,3 +6,19 @@
   composes: counter;
   color: rgb(25,200,25);
 }
+
+.button-row {
+	margin-top: 30px;
+}
+
+.left-button {
+	margin-right: 5px;
+}
+
+.right-button {
+	margin-left: 5px;
+}
+
+.block-link {
+	display: block;
+}
